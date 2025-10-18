@@ -60,3 +60,4 @@
   - DVMT Pre-Allocated Memory : `64 MB`
 
 VGA Port Patched on config.plist. Now, you do not need to add -igfxvesa on setup.
+For FaceTime, iMessage and other iServices, you need to change serial number. Check coverage of your serial number.
