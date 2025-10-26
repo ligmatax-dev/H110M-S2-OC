@@ -1,3 +1,9 @@
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/659985e5-4260-48b4-80bb-bf296783ab6f" />
+<small><i>Photo 1.1: macOS Tahoe on H110M-S2.</i></small>
+
+
+
+
 ## 🖥️ Hardware & System
 
 | Name | Model Version |
